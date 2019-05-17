@@ -1,4 +1,4 @@
-selenium
+﻿selenium
 test fonctionnel de page web automatisé
 different de test de code => test unitaire
 
@@ -38,5 +38,6 @@ pom.xml
  * maven => version jdk
  * dependance selenium
  
-
+mettre des commantaire sur un paragraphe
+/*     */
  
